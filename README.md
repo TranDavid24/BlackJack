@@ -5,4 +5,5 @@ Tutorial how to play black jack
 - Hitting gives you a card
 - Staying means you are good with your total
 - To start you get 2 cards
-- Aces are 1 or 11
+- Aces are 11
+- J, Q, K are 10
