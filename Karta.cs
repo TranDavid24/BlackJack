@@ -2,7 +2,7 @@ using System;
 
 namespace Blackjack
 {
-    class Karta
+    publick class Karta
     {
         public string Hodnota { get; private set; }
         public string Barva { get; private set; }
