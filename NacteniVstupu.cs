@@ -17,7 +17,7 @@ namespace Blackjack
 
         public static int NactiCislo(string vyzva, int min, int max)
         {
-           int cislo;
+            int cislo;
             while (true)
             {
                 Console.Write(vyzva);
